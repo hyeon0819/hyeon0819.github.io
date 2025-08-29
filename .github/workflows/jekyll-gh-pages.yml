@@ -1,0 +1,25 @@
+title: "Sanghyeon Lee"
+name: "Sanghyeon Lee"
+description: "Ph.D. Student, VIS Lab @ KNU"
+url: "https://USERNAME.github.io"
+repository: "USERNAME/USERNAME.github.io"
+
+author:
+  name: "Sanghyeon Lee"
+  avatar: # 원하면 이미지 경로
+  links:
+    - label: "Email"
+      url: "mailto:hyeon1263@knu.ac.kr"
+    - label: "ResearchGate"
+      url: "YOUR_RESEARCHGATE_URL"
+    - label: "ORCiD"
+      url: "YOUR_ORCID_URL"
+    - label: "Google Scholar"
+      url: "YOUR_SCHOLAR_URL"
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-paginate
